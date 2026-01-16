@@ -1,8 +1,8 @@
 // Настройки подключения к серверу
 const apiConfig = {
-  serverUrl: 'https://mesto.nomoreparties.co/v1/wff-cohort-39',
+  serverUrl: 'https://mesto.nomoreparties.co/v1/apf-cohort-202',
   requestHeaders: {
-    authorization: 'a25ebce9-c3e7-418c-91de-6b8a6a0e38ce',
+    authorization: 'ba5a6990-66b7-4b96-ab87-3a7adfb6be8b',
     'Content-Type': 'application/json'
   }
 };
